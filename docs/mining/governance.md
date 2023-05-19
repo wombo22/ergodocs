@@ -41,7 +41,7 @@ A miner includes a parameter identifier ($id$) into the block header to propose 
 | 1 | Storage fee factor (per byte storage period) | 1250000 | 25000 | 0 | 2500000 |
 | 2 | Minimum monetary value of a box | 360 | 10 | 0 | 10000 |
 | 3 | Maximum block size | 524288 |  | 16384 |  |
-| 4 | Maximum cummulative computational cost of a block | 1000000 |  | 16384 |  |
+| 4 | Maximum cumulative computational cost of a block | 1000000 |  | 16384 |  |
 | 5 | Token access cost | 100 |  |  |  |
 | 6 | Cost per one transaction input | 2000 |  |  |  |
 | 7 | Cost per one data input | 100 |  |  |  |
