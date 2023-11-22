@@ -46,7 +46,7 @@ Ergo serves as the foundation for various decentralized finance (DeFi) applicati
 
 1. **Oracles:** Oracles play a crucial role in providing external data to DeFi protocols. Ergo supports the integration of oracles, enabling secure and reliable data feeds from the external world.
 
-2. **ErgoDEX:** ErgoDEX, formerly known as Spectrum, is a decentralized exchange (DEX) built on Ergo. It leverages Ergo's security guarantees and features, enabling trustless peer-to-peer trading of digital assets.
+2. **Spectrum:** Spectrum, formerly known as ErgoDEX, is a decentralized exchange (DEX) built on Ergo. It leverages Ergo's security guarantees and features, enabling trustless peer-to-peer trading of digital assets.
 
 3. **Djed and SigUSD:** Djed and SigUSD are stablecoin projects built on Ergo. They provide stable value representation and decentralized governance mechanisms, offering stability and transparency in the Ergo ecosystem.
 
